@@ -1,0 +1,20 @@
+# CurrentStyle
+#
+# Release 0.01 (Jul 05, 2011)
+#
+# Copyright (c) 2004-2011 Yujiro Araki
+
+id: CurrentStyle
+name: CurrentStyle
+description: <__trans phrase="Display Style." />
+author_link: http://www.koikikukan.com/
+author_name: Yujiro Araki
+doc_link: http://www.koikikukan.com/archives/2011/07/05-005555.php
+version: 0.01
+l10n_lexicon:
+    ja:
+        Display Style.: 適用中のスタイルとレイアウトを表示するテンプレートタグを提供します。
+tags:
+    function:
+        CurrentStyle: $CurrentStyle::CurrentStyle::Tags::hdlr_current_style
+        CurrentLayout: $CurrentStyle::CurrentStyle::Tags::hdlr_current_layout
