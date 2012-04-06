@@ -3,12 +3,15 @@
 # Release 0.01 (Jul 05, 2011)
 #
 # Copyright (c) 2004-2011 Yujiro Araki
+#
+# Release 0.02 (Apr 06, 2012)
+# Modified by naoaki.onozaki
 
 id: CurrentStyle
 name: CurrentStyle
 description: <__trans phrase="Display Style." />
 author_link: http://www.koikikukan.com/
-author_name: Yujiro Araki
+author_name: <__trans phrase="Yujiro Araki">
 doc_link: http://www.koikikukan.com/archives/2011/07/05-005555.php
 version: 0.02
 l10n_lexicon:
